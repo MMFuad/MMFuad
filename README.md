@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MMFuad
-- 👀 I’m interested in Programming and Robotics
-- 🌱 I’m currently learning Python
-- 💞️ 
+- Hi, I’m @MMFuad
+ I’m interested in Programming and Robotics
+  I’m currently learning Python
+  
 - 📫 mir.muhammad.fuad@g.bracu.ac.bd
 
 <!---
